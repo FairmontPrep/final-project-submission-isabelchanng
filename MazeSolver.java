@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Client {
+public class MazeSolver {
     static ArrayList<ArrayList<Integer>> A = new ArrayList<>(Arrays.asList(
         //INPUT MAZE HERE
         new ArrayList<>(Arrays.asList(1, 1, 0, 1, 0, 0, 0, 0 )),
